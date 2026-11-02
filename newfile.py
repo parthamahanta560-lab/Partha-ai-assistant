@@ -1,0 +1,5 @@
+print(" Hello Sir")
+print(" I am Partha AI")
+name=input("partha mahanta")
+print("welcome",partha)
+print("আমি আপনার নির্দেশের অপেক্ষায় আছি |")
